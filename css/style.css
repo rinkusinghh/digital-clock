@@ -1,0 +1,27 @@
+._mainContainer {
+
+}
+
+._bgColor {
+    border: 2px solid bisque;
+    background: aliceblue;
+    border-radius: 10px;
+}
+
+._mainHeading {
+    text-align: center;
+    color: sandybrown;
+    text-transform: capitalize;
+    margin-top: 1rem;
+
+}
+
+#setTime {
+    color: slategray;
+}
+
+._para {
+    margin: 1rem 10rem;
+    text-transform: lowercase;
+    color: sandybrown;
+}
